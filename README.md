@@ -41,7 +41,7 @@ Isso gera a pasta `dist`. Você pode publicar o conteúdo dela no GitHub Pages
 - `src/main.jsx` — ponto de entrada que renderiza o app.
 - `src/index.css` — Tailwind + ajustes globais.
 - `index.html` — HTML base.
-- `vite.config.js` — configuração do Vite (base relativa para o GitHub Pages).
+- `vite.config.js` — configuração do Vite para o endereço do GitHub Pages.
 - `.github/workflows/deploy.yml` — publicação automática no GitHub Pages.
 
 ## Acesso de teste
